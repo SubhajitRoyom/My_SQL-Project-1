@@ -1,2 +1,4 @@
 # My_SQL-Project-1
-finance,market,product,supply_chain analytics
+
+
+top_market, top_product, top_customers, forecast_accuracy(supplychain)
